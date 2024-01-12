@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Next.js Ts and Node.js
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me gweltaz.mary@septeo.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love patio sprint
 
 <!---
 GMA-Septeo/GMA-Septeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
